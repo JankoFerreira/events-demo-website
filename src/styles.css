@@ -18,7 +18,7 @@
 .cursor-mark,.cursor-ring,.cursor-trail span{transform:translate3d(-100px,-100px,0)}
 @media(max-width:800px){.hero-main-photo{object-position:20% center}}
 footer{position:relative;overflow:hidden;min-height:330px;padding:76px 0 32px;border-top-color:#fa6b58}
-footer::after{content:"MAJESTIC";position:absolute;right:3%;bottom:14px;color:#ffffff0c;font:700 220px/.72 'Playfair Display',Georgia,serif;pointer-events:none;white-space:nowrap}
+footer::after{content:"LUMA & LACE";position:absolute;right:3%;bottom:14px;color:#ffffff0c;font:700 160px/.72 'Playfair Display',Georgia,serif;pointer-events:none;white-space:nowrap}
 .footer-inner{position:relative;z-index:1;align-items:flex-start}
 .footer-brand{font:600 68px/.88 'Playfair Display',Georgia,serif}
 .footer-brand span{font:700 11px/1.2 'DM Sans',Arial,sans-serif;letter-spacing:3px;margin-top:15px;color:#f8ce74}
